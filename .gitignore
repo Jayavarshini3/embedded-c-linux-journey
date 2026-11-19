@@ -1,0 +1,9 @@
+# Ignore compiled executable and object files
+*_app
+*.o
+*.out
+a.out
+
+# Ignore macOS system files
+.DS_Store
+
